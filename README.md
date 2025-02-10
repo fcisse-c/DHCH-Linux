@@ -2,9 +2,5 @@
 [![N|DHCP-lunix](https://github.com/fcisse-c/DHCH-Linux/blob/main/DHCP-lunix.png)
 
 
-
-
-
-
-#Test sur un client Windows
+# Test sur un client Windows
 [![dhcp-machine-cliente](https://github.com/fcisse-c/DHCH-Linux/blob/main/dhcp-machine-cliente.png)
